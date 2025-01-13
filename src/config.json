@@ -1,10 +1,9 @@
 {
-  "address": "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",
+  "address": "4AdMjweqdwfER1ofRFXa8k2oYA2sd9pnmchCshMjTnGv",
   "limit": 50,
-  "orderBy": "total_profit",
+  "orderby": "total_profit",
   "direction": "desc",
-  "showsmall": false,
-  "sellout": false,
-  "hide_abnormal": false,
+  "showsmall": true,
+  "sellout": true,
   "tx30d": true
 }
