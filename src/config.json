@@ -1,0 +1,10 @@
+{
+  "address": "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc",
+  "limit": 50,
+  "orderBy": "total_profit",
+  "direction": "desc",
+  "showsmall": false,
+  "sellout": false,
+  "hide_abnormal": false,
+  "tx30d": true
+}
